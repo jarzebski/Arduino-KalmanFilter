@@ -3,6 +3,6 @@ Arduino-KalmanFilter
 
 This library is prepared for IMU calculations
 
-See examples: TODO
+See examples: http://www.jarzebski.pl/arduino/rozwiazania-i-algorytmy/odczyty-pitch-roll-oraz-filtr-kalmana.html
 
 
